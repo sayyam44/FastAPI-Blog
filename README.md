@@ -4,10 +4,11 @@ This is a backend API built using FastAPI for a blogging website. The API suppor
 ## 🚀 Features
 1) User Registration & Authentication
 2) Create, Read, Update, Delete (CRUD) operations for Blogs
-3) OAuth2 with JWT(Jason Web Tokens) for secure user authentication
-4) SQLAlchemy for database ORM
-5) Pydantic models for data validation
-6) Automatic Swagger and Redoc API documentation
+3) Relationship between User and Blog.
+4) OAuth2 with JWT(Jason Web Tokens) for secure user authentication
+5) SQLAlchemy for database ORM
+6) Pydantic models for data validation
+7) Automatic Swagger and Redoc API documentation
 
 
 ## Swagger for API documentation
