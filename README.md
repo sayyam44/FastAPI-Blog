@@ -9,10 +9,12 @@ This is a backend API built using FastAPI for a blogging website. The API suppor
 5) Pydantic models for data validation
 6) Automatic Swagger and Redoc API documentation
 
+
+Swagger for API documentation
 ![Swagger for API documentation](https://github.com/user-attachments/assets/5e572ffb-d679-45dd-8908-7f1ff086d01d)
 
-![JWT token generation after user authorization over network](https://github.com/user-attachments/assets/15c73252-4436-451f-a6bd-4bb767981f62)
 
-![Hashing password using passlib Library in Python](https://github.com/user-attachments/assets/ce5dd0d8-d4de-4881-9f00-7c3dcca454a2)
+JWT token generation after user authorization over network
+![JWT token generation after user authorization over network](https://github.com/user-attachments/assets/15c73252-4436-451f-a6bd-4bb767981f62)
 
  
