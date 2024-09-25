@@ -12,7 +12,8 @@ This is a backend API built using FastAPI for a blogging website. The API suppor
 
 
 ## Swagger for API documentation
-![Swagger for API documentation](https://github.com/user-attachments/assets/5e572ffb-d679-45dd-8908-7f1ff086d01d)
+![final](https://github.com/user-attachments/assets/88d7a2a4-c2b0-4733-85be-56a889b1645d)
+
 
 
 ## JWT token generation after user authorization over network
