@@ -10,11 +10,11 @@ This is a backend API built using FastAPI for a blogging website. The API suppor
 6) Automatic Swagger and Redoc API documentation
 
 
-Swagger for API documentation
+## Swagger for API documentation
 ![Swagger for API documentation](https://github.com/user-attachments/assets/5e572ffb-d679-45dd-8908-7f1ff086d01d)
 
 
-JWT token generation after user authorization over network
+## JWT token generation after user authorization over network
 ![JWT token generation after user authorization over network](https://github.com/user-attachments/assets/15c73252-4436-451f-a6bd-4bb767981f62)
 
  
